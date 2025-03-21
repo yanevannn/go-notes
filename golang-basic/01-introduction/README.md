@@ -97,6 +97,3 @@ Jalankan dengan:
 ```sh
 go run hello.go
 ```
-
-✅ **Selamat!** Kamu sudah membuat program pertamamu di Go. 🎉
-
